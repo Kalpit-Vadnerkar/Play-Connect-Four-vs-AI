@@ -7,7 +7,7 @@ Connect Four (also known as Four Up, Plot Four, Find Four, Four in a Row, Four i
 
 To play Connect Four on your machine, download the project and type in the command line:
 
-# python connect4.py
+python connect4.py
 
 A GUI similar to the image above will be generated. Using the options provided, you can play the game with you friend. For us loners there are three different kinds of AI agents to play against. These agents use one of the 3 algorithms namely, MiniMax, MiniMax with alpha-beta pruning, and ExpectiMax. To make things more interesting, you can have both the players to be AI agents and see who wins. If you think you can beat the AI agent, you can try to play against stronger agents by increasing the depth (dificulty).
 Have fun!
